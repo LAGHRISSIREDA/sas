@@ -1,0 +1,23 @@
+Elecetion application
+---------------------------
+
+1)=> liste dynamic pour président(min 5)
+2)=> dlist dynamic pour electeur identifié par leur CIN (min 10)
+
+>>>>>>Round one
+
+A)chaque electeur va voter pour un seul president 
+b)les presidant ayant poucentage de moins de 15% du vote von etre exclus
+c)si tous les presidant on meme nombre de vote>>>REFAIRE ROUND ONE
+
+>>>>>>Round two
+
+a)chaque electeur va voter deuxieme fois pour un president qui nn'est pas exclu lors du premier tour
+b)le president ahant le mois de votes sera exclu
+c)Nombre d vote equa >>>>REFAIRE ROUND TWO
+
+>>>>>>Round three
+
+a)les electeurs von voter pour les president qui reste
+b)le plus d vote >>>>PRESIDENT
+)votes AQUA >>>>>REFAIRE ROUND THREE
